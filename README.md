@@ -1,6 +1,6 @@
 
 
-##       https://github.com/A-Capelini/senai-fullstack-developer/blob/main/SENAI-EAD-Cursos.pngPhilips Senai Fullstack Developer
+##       https://github.com/A-Capelini/senai-fullstack-developer/blob/main/SENAI-EAD-Cursos.pngSenai Fullstack Developer
 
 
 
