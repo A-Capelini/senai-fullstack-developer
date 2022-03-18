@@ -1,8 +1,12 @@
-#        ![logo-senai](https://github.com/A-Capelini/senai-fullstack-developer/blob/main/logo-senai.png) Senai Fullstack Developer
+#        ![logo-senai](https://github.com/A-Capelini/senai-fullstack-developer/blob/main/logo-senai.png)          Senai Fullstack Developer
 
 
 
-#### Exercícios Realizados:
+
+
+
+
+### Exercícios Realizados:
 
 * [UC8 - Lógica de Programação](https://github.com/A-Capelini/senai-fullstack-developer/tree/main/UC8-l%C3%B3gica-de-program%C3%A7%C3%A3o)
 
@@ -14,7 +18,7 @@ Repositório criado para o Curso de Fullstack ministrado pelo Senai.
 
 
 
-### Links úteis
+##### Links úteis
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
