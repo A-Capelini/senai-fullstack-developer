@@ -1,6 +1,6 @@
 
 
-##       [SENAI-EAD-Cursos.png](https://github.com/A-Capelini/senai-fullstack-developer/blob/main/SENAI-EAD-Cursos.pngSenai) Fullstack Developer
+##       ![SENAI-EAD-Cursos](https://github.com/A-Capelini/senai-fullstack-developer/blob/main/SENAI-EAD-Cursos.png) Senai Fullstack Developer
 
 
 
