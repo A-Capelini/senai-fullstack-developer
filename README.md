@@ -1,4 +1,4 @@
-##        ![logo-senai](https://github.com/A-Capelini/senai-fullstack-developer/blob/main/logo-senai.png) Senai Fullstack Developer
+#        ![logo-senai](https://github.com/A-Capelini/senai-fullstack-developer/blob/main/logo-senai.png) Senai Fullstack Developer
 
 
 
@@ -14,7 +14,7 @@ Repositório criado para o Curso de Fullstack ministrado pelo Senai.
 
 
 
-## Links úteis
+### Links úteis
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
