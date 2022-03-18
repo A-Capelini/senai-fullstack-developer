@@ -1,6 +1,4 @@
-
-
-##       ![SENAI-EAD-Cursos](https://github.com/A-Capelini/senai-fullstack-developer/blob/main/SENAI-EAD-Cursos.png) Senai Fullstack Developer
+##        ![logo-senai](https://github.com/A-Capelini/senai-fullstack-developer/blob/main/logo-senai.png) Senai Fullstack Developer
 
 
 
@@ -12,7 +10,7 @@
 
 
 
-Repositório criado para o Curso de FullStack ministrado pelo Senai.
+Repositório criado para o Curso de Fullstack ministrado pelo Senai.
 
 
 
